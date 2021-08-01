@@ -1,4 +1,4 @@
-# Biometrics-Bicycle-Lock-Location-Updates
+# Apple-Maps-Location-Tracking
 
 In addition to the C++ Arduino code for my biometrics bicycle lock project, I followed a Swift tutorial by Electronic Armory on how to get user locations and recieve notifications on location updates.
 
